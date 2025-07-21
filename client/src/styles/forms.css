@@ -1,0 +1,18 @@
+.inp > label
+{
+    @apply block text-sm font-medium text-white
+}
+
+.modal-form > .inp > label
+{
+    @apply text-black
+}
+.inp > input
+{
+    @apply mt-1 block w-full  px-4 py-2 border border-gray-300 rounded-lg shadow-sm focus:ring-blue-500 focus:border-blue-500 mb-2
+}
+
+.add-course > form > button
+{
+    @apply bg-blue-600 text-white py-2 px-4 rounded-lg hover:bg-blue-700 transition duration-300 shadow-md mt-2 m-auto
+}
