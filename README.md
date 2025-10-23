@@ -49,4 +49,3 @@ npm start
 - Admin: Full control over users 
 - Teacher: Manage and view courses 
 - Student: View course and events
-- Admin Login : check@123.com check@123
